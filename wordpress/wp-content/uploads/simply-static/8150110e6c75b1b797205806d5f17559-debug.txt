@@ -1,0 +1,4 @@
+[2024-06-19 02:05:29] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/tanka/wordpress
+[2024-06-19 02:05:35] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/tanka/wordpress
+[2024-06-19 02:09:51] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/tanka/wordpress
+[2024-06-19 02:09:55] [class-ss-url-fetcher.php:251] Fetching URL: http://localhost/tanka/wordpress
