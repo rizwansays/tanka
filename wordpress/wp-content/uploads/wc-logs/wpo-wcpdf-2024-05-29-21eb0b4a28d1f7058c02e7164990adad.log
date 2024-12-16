@@ -1,0 +1,3 @@
+2024-05-29T09:50:12+00:00 CRITICAL Unable to create folder C:\xampp\htdocs\tanka\wordpress/wp-content/uploads/wpo_wcpdf/attachments/
+2024-05-29T09:51:25+00:00 INFO Template setting migrated from C:/xampp/htdocs/tanka/wordpress/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2024-05-29T09:51:30+00:00 CRITICAL Table 'tanka.wp_wcpdf_invoice_number' doesn't exist

@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/OpenSans-Normal",
+        "bold": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/OpenSans-Bold",
+        "italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/Segoe-Normal",
+        "bold": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/Segoe-Bold",
+        "italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/currencies",
+        "bold": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/currencies",
+        "italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/currencies",
+        "bold_italic": "C:\/xampp\/htdocs\/tanka\/wordpress\/wp-content\/uploads\/wpo_wcpdf_f13790fa774dfeaa8c091d7d4c15c1cd\/fonts\/currencies"
+    }
+}
